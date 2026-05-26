@@ -14,6 +14,8 @@ The system is trained on multiple car brand images and performs image classifica
 - Image preprocessing and prediction visualization
 - User-friendly testing workflow
 - Supports multiple car brands
+## 📦 Dataset
+The dataset for this project was manually collected and organized for training the car brand classification model.
 
 ---
 
